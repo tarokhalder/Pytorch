@@ -1,4 +1,4 @@
-# PyTorch Tensor — বাংলা নোট
+# PyTorch Tensor
 
 ## PyTorch ও NumPy Import করা
 
